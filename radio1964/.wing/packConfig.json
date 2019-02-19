@@ -1,9 +1,0 @@
-{
-    "useClip": false,
-    "maxImageWidth": 2048,
-    "maxImageHeight": 2048,
-    "defaultResPath": "/Users/mac/Documents/EgretProjects/radio1964/resource/default.res.json",
-    "packGroups": {
-        "preload": true
-    }
-}
